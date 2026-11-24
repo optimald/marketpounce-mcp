@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "marketpounce": {
+      "url": "https://www.marketpounce.com/api/ops/mcp"
+    }
+  }
+}
